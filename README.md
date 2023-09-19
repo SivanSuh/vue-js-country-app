@@ -1,24 +1,12 @@
-# movies-app
+# Vue Js Country App Project
 
-## Project setup
-```
-yarn install
-```
+you can search and click the country box go to the country detail page
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Tech
 
-### Compiles and minifies for production
-```
-yarn build
-```
+- Vue js (2)
+- pure css
+- Vue Router
+- Api (https://restcountries.com/)
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![App Screenshot](./public/lastCountry.png)
